@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hirun Rattananimit</h1>
-<h5 align="center">A passionate Data Analyst from Thailand</h5>
+<h4 align="center">A passionate Data Analyst from Thailand</h4>
 <img align="right" alt="Penguin" width="280" src="https://i.giphy.com/3udvbCGdXT5ZLfCqgU.webp">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirunrnm&label=Profile%20views&color=0e75b6&style=flat" alt="hirunrnm" /> </p>
 
 - 🔭 I’m currently seeking for **job opportunities**
 
@@ -22,12 +20,11 @@
 <p align="left"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> </p>
 
 <h4 align="left">Database Management System:</h4>
-<p align="left"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
 
 <h4 align="left">Data Visualization:</h4>
 <p align="left"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> </p>
 
 <h4 align="left">Tools:</h4>
-<p align="left"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
-
+<p align="left"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
 
