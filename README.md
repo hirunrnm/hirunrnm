@@ -11,7 +11,12 @@
 
 - 📫 How to reach me **h.rattananimit@gmail.com**
 
-[![Download Resume](https://img.shields.io/badge/Download_Resume-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hirunrnm/resume_download/raw/main/Hirun_Rattananimit_Resume.pdf)
+<h4 align="left">Download My Resume:</h4>
+<p align="left">
+  <a href="https://github.com/hirunrnm/resume_download/raw/main/Hirun_Rattananimit_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Download Resume"/>
+  </a>
+</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -29,4 +34,5 @@
 
 <h4 align="left">Tools:</h4>
 <p align="left"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
+
 
