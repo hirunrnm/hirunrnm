@@ -11,10 +11,7 @@
 
 - 📫 How to reach me **h.rattananimit@gmail.com**
 
-### Download My Resume
-
-[Click here to download my resume](https://github.com/hirunrnm/resume_download/raw/main/Hirun_Rattananimit_Resume.pdf)
-
+[![Download Resume](https://img.shields.io/badge/Download_Resume-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hirunrnm/resume_download/raw/main/Hirun_Rattananimit_Resume.pdf)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
