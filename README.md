@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hirun Rattananimit</h1>
-<h3 align="center">A passionate Data Analyst from Thailand</h3>
+<h5 align="center">A passionate Data Analyst from Thailand</h5>
 <img align="right" alt="Penguin" width="280" src="https://i.giphy.com/3udvbCGdXT5ZLfCqgU.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirunrnm&label=Profile%20views&color=0e75b6&style=flat" alt="hirunrnm" /> </p>
