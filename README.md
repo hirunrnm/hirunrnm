@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently seeking for **job opportunities**
 
-- 🌱 I’m currently learning **Google Analytics**, Python, R**
+- 🌱 I’m currently learning **Google Analytics, Python, R**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hirunrnm/Data_Analysis_Project](https://github.com/hirunrnm/Data_Analysis_Project)
 
