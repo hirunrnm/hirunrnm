@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hirun Rattananimit</h1>
-<h4 align="center">A passionate Data Analyst from Thailand</h4>
+<h4 align="center">Wellcome to my portfolio</h4>
 <img align="right" alt="Penguin" width="300" src="https://i.giphy.com/3udvbCGdXT5ZLfCqgU.webp">
 
 - 🔭 I’m currently seeking for **job opportunities**
