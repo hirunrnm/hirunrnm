@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Google Analytics, Python, R**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hirunrnm/Data_Analysis_Project](https://github.com/hirunrnm/Data_Analysis_Project)
+- 👨‍💻 All of my projects are available at [Data_Analysis_Project](https://github.com/hirunrnm/Data_Analysis_Project)
 
 - 📫 How to reach me **h.rattananimit@gmail.com**
 
