@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hirun Rattananimit</h1>
-<h4 align="center">Welcome to my portfolio</h4>
+<h4 align="center">Welcome to my homepage</h4>
 <img align="right" alt="Penguin" width="300" src="https://i.giphy.com/3udvbCGdXT5ZLfCqgU.webp">
-
-- 🔭 I’m currently seeking for **job opportunities**
 
 - 🌱 I’m currently learning **Google Analytics, Python, R**
 
@@ -11,7 +9,7 @@
 
 - 📫 How to reach me **h.rattananimit@gmail.com**
 
-<h4 align="left">Download My Resume:</h4>
+<h4 align="left">Download My Resume:</h4> 
 <p align="left">
   <a href="https://github.com/hirunrnm/resume_download/raw/main/Hirun_Rattananimit_Resume.pdf" download>
     <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Download Resume"/>
