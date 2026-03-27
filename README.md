@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hirun Rattananimit</h1>
+<h1 align="center">Hi 👋</h1>
 <h4 align="center">Welcome to my homepage</h4>
 <img align="right" alt="Penguin" width="300" src="https://i.giphy.com/3udvbCGdXT5ZLfCqgU.webp">
 
