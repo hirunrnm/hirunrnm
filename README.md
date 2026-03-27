@@ -7,12 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [Data_Analysis_Project](https://github.com/hirunrnm/Data_Analysis_Project)
 
-- 📫 How to reach me **h.rattananimit@gmail.com**
-
-<h4 align="left">Download My Resume:</h4> 
-<p align="left">
-  <a href="https://github.com/hirunrnm/resume_download/raw/main/Hirun_Rattananimit_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Download Resume"/>
   </a>
 </p>
 
