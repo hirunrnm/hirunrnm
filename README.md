@@ -3,7 +3,7 @@
 <h4 align="center">Welcome to my homepage</h4>
 <img align="right" alt="Penguin" width="300" src="https://i.giphy.com/3udvbCGdXT5ZLfCqgU.webp">
 
-- 🌱 I’m currently learning **Google Analytics, Python, R**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [Data_Analysis_Project](https://github.com/hirunrnm/Data_Analysis_Project)
 
@@ -25,6 +25,6 @@
 <p align="left"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> </p>
 
 <h4 align="left">Tools:</h4>
-<p align="left"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </p>
 
 
